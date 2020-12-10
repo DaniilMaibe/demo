@@ -11,6 +11,5 @@ int main(int argc, char *argv[])
 
     std::cout<<"Meow"<<std::endl;
 
-
     return a.exec();
 }
